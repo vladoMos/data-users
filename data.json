@@ -1,0 +1,92 @@
+[
+  {
+    "ime": "Ivan Horvat",
+    "godina": 28,
+    "adresa": "Ulica J. Jelačića 15, Zagreb",
+    "broj_telefona": "+385 91 123 4567"
+  },
+  {
+    "ime": "Ana Marić",
+    "godina": 34,
+    "adresa": "Ulica M. Držića 20, Split",
+    "broj_telefona": "+385 98 765 4321"
+  },
+  {
+    "ime": "Marko Kovačić",
+    "godina": 41,
+    "adresa": "Ulica Kralja Tomislava 30, Rijeka",
+    "broj_telefona": "+385 99 112 3344"
+  },
+  {
+    "ime": "Lucija Novak",
+    "godina": 25,
+    "adresa": "Ulica Petra Preradovića 10, Osijek",
+    "broj_telefona": "+385 92 223 4455"
+  },
+  {
+    "ime": "Petar Perić",
+    "godina": 50,
+    "adresa": "Ulica Ante Starčevića 8, Zadar",
+    "broj_telefona": "+385 97 334 5566"
+  },
+  {
+    "ime": "Katarina Babić",
+    "godina": 29,
+    "adresa": "Ulica Nikole Tesle 5, Dubrovnik",
+    "broj_telefona": "+385 91 445 6677"
+  },
+  {
+    "ime": "Davor Kralj",
+    "godina": 37,
+    "adresa": "Ulica I. Gundulića 22, Varaždin",
+    "broj_telefona": "+385 98 556 7788"
+  },
+  {
+    "ime": "Maja Lovrić",
+    "godina": 45,
+    "adresa": "Ulica S. Radića 12, Karlovac",
+    "broj_telefona": "+385 99 667 8899"
+  },
+  {
+    "ime": "Tomislav Petrović",
+    "godina": 32,
+    "adresa": "Ulica F. Supila 7, Pula",
+    "broj_telefona": "+385 92 778 9900"
+  },
+  {
+    "ime": "Ivana Tomić",
+    "godina": 27,
+    "adresa": "Ulica Vukovarska 14, Slavonski Brod",
+    "broj_telefona": "+385 97 889 0011"
+  },
+  {
+    "ime": "Luka Matić",
+    "godina": 23,
+    "adresa": "Ulica Marina Držića 9, Šibenik",
+    "broj_telefona": "+385 91 990 1122"
+  },
+  {
+    "ime": "Marija Jurić",
+    "godina": 39,
+    "adresa": "Ulica Domovinskog rata 18, Sisak",
+    "broj_telefona": "+385 98 101 2233"
+  },
+  {
+    "ime": "Nikola Vuković",
+    "godina": 31,
+    "adresa": "Ulica Krešimira Ćosića 3, Velika Gorica",
+    "broj_telefona": "+385 99 202 3344"
+  },
+  {
+    "ime": "Martina Grgić",
+    "godina": 36,
+    "adresa": "Ulica Hrvatske bratske zajednice 16, Bjelovar",
+    "broj_telefona": "+385 92 303 4455"
+  },
+  {
+    "ime": "Goran Šimić",
+    "godina": 40,
+    "adresa": "Ulica Kneza Trpimira 2, Vinkovci",
+    "broj_telefona": "+385 97 404 5566"
+  }
+]
